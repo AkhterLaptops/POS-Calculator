@@ -1,6 +1,0 @@
-{
-  "summary":  "Implementation plan to update app version to v2.2 and implement persistent storage for dropdown values so the 3 default options are seeded only on first install, while remembering all user additions, modifications, and deletions.",
-  "updatedAt":  "2026-10-27T07:41:01.740244329Z",
-  "requestFeedback":  true,
-  "userFacing":  true
-}
