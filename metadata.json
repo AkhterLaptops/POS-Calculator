@@ -1,0 +1,6 @@
+{
+  "name": "POS Calculator",
+  "description": "v2.2 - Smart POS terminal fee calculator with instant swipe fee calculations, customizable merchant rates, and transaction slips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
